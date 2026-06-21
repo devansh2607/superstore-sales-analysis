@@ -85,20 +85,20 @@ How can the business increase sales and improve performance in underperforming r
 
 ### Executive Overview
 
-![Executive Analysis](dashboard_screenshots/Executive_Analysis.png)
+![Executive Analysis](Superstore_Dashboard_Screenshot/Executive_Analysis.png)
 
 ## Customer Analysis
 
-![Customer Analysis](dashboard_screenshots/Customer_Analysis.png)
+![Customer Analysis](Superstore_Dashboard_Screenshot/Customer_Analysis.png)
 
 ## Product Analysis
 
-![Product Analysis](dashboard_screenshots/Product_Analysis.png)
+![Product Analysis](Superstore_Dashboard_Screenshot/Product_Analysis.png)
 
 ## Regional Analysis
 
-![Regional Analysis](dashboard_screenshots/Regional_Analysis.png)
+![Regional Analysis](Superstore_Dashboard_Screenshot/Regional_Analysis.png)
 
 ## Business Recommendations
 
-![Business Recommendations](dashboard_screenshots/Business_Recommendations.png)
+![Business Recommendations](Superstore_Dashboard_Screenshot/Business_Recommendations.png)
