@@ -83,7 +83,7 @@ How can the business increase sales and improve performance in underperforming r
 
 ## Dashboard Preview
 
-## Executive Overview
+### Executive Overview
 
 ![Executive Analysis](dashboard_screenshots/Executive%20Analysis.png)
 
@@ -102,4 +102,3 @@ How can the business increase sales and improve performance in underperforming r
 ## Business Recommendations
 
 ![Business Recommendations](dashboard_screenshots/Business%20Recommendations.png)
-
